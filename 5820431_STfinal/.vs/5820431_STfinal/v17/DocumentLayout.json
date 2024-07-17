@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityProject\\5820431_STfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|D:\\unityProject\\5820431_STfinal\\assets\\scripts\\gunctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|d:\\unityproject\\5820431_stfinal\\assets\\scripts\\cctv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cctv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|D:\\unityProject\\5820431_STfinal\\assets\\enviroment\\enviroment\\office building\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D222740-C192-CB87-EE8B-40E2F52ABB2A}|Assembly-CSharp.csproj|solutionrelative:assets\\enviroment\\enviroment\\office building\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCTV.cs",
+              "DocumentMoniker": "D:\\unityProject\\5820431_STfinal\\Assets\\Scripts\\CCTV.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CCTV.cs",
+              "ToolTip": "D:\\unityProject\\5820431_STfinal\\Assets\\Scripts\\CCTV.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CCTV.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwv6AAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:12:01.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GunCtrl.cs",
+              "DocumentMoniker": "D:\\unityProject\\5820431_STfinal\\Assets\\Scripts\\GunCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunCtrl.cs",
+              "ToolTip": "D:\\unityProject\\5820431_STfinal\\Assets\\Scripts\\GunCtrl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunCtrl.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:12:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\unityProject\\5820431_STfinal\\Assets\\Enviroment\\enviroment\\Office building\\scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Enviroment\\enviroment\\Office building\\scripts\\Door.cs",
+              "ToolTip": "D:\\unityProject\\5820431_STfinal\\Assets\\Enviroment\\enviroment\\Office building\\scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Enviroment\\enviroment\\Office building\\scripts\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:00:53.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
